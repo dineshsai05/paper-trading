@@ -2,8 +2,6 @@
 
 **Name(s):** `Dinesh Sai, Surya Theja, Thanrun, Surya Kalla`  
 
-> Submission note: this local folder is not currently a git repository (`git status` reports "not a git repository"), so official `git diff` files cannot be generated from this copy. Before final submission, push the project to a public GitHub/GitLab repository and generate per-file diffs from the repository history if this was modified from an original source.
-
 ## 1. Motivation and Project Overview
 
 The goal of this project was to build a realistic paper trading platform where a user can practice stock trading without using real money. The application simulates the main workflows of a trading terminal: account creation, login, live watchlist prices, candlestick charts, order placement, order history, portfolio tracking, and historical portfolio reconstruction.
