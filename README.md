@@ -1,6 +1,6 @@
 # Paper Trading Platform
 
-**Name(s):** `Dinesh Sai, Surya Theja, Thanrun, Surya Kalla`  
+**Name(s):** `Dinesh Sai, Surya Theja, Thanrun, Kala Lakshmi Surya`  
 
 ## 1. Motivation and Project Overview
 
