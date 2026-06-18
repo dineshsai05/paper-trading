@@ -1,8 +1,6 @@
 # Paper Trading Platform
 
-**Name(s):** `<enter name(s)>`  
-**Roll Number(s):** `<enter roll number(s)>`  
-**Public Git Repository:** `<enter public GitHub/GitLab URL here>`
+**Name(s):** `Dinesh Sai, Surya Theja, Thanrun, Surya Kalla`  
 
 > Submission note: this local folder is not currently a git repository (`git status` reports "not a git repository"), so official `git diff` files cannot be generated from this copy. Before final submission, push the project to a public GitHub/GitLab repository and generate per-file diffs from the repository history if this was modified from an original source.
 
